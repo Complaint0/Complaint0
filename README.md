@@ -33,7 +33,7 @@
 
 <p align="left">Я начинающий Frontend разработчик. В настоящее время получил высшее образование по направлению Программная инженерия. Имею опыт разработки на js с использованием ts, также работал с react, react-router-dom и redux. Безумно люблю сферу вэба и мечтаю дальше в ней развиваться. <br>
 С февраля 2024 года по октябрь 2024 я изучал Frontend разработку на курсах Яндекс Практикум.</p>
-
+<br>
 
 ###
 
@@ -54,11 +54,15 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/webpack/8DD6F9" height="40" alt="webpack logo"  />
   <img width="12" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
+  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" height="40" alt="redux logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" height="40" alt="cypress logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" height="40" alt="jest logo" />
 </div>
 
 ###
-
+<br>
 <h3 align="left">🔥   Моя статистика :</h3>
 
 ###
